@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4 h-16 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="text-2xl font-bold text-gray-900">
-          Statement<span className="text-purple-600">Pro</span>
+          Banking<span className="text-purple-600">Statement</span>
         </Link>
 
         {/* Auth Buttons */}
